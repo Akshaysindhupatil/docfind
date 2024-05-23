@@ -1,0 +1,131 @@
+[
+  {
+    "name": "Dr. Ankit Tarare",
+    "speciality": "Cardiologist",
+    "experience": "MBBS, MD,",
+    "location": "Hyderabad",
+    "image": "img/dr-dp.png"
+    
+  },
+  {
+    "name": "Dr. Neha Rao",
+    "speciality": "Cardiologist",
+    "experience": "MBBS, MD,",
+    "location": "Pune",
+    "image": "https://png.pngtree.com/element_our/20190528/ourmid/pngtree-cartoon-doctor-hand-painted-female-doctor-png-image_1158135.jpg",
+    "phone": "tel:0756566362"
+    
+  },
+  {
+    "name": "Dr. Ram Satpute",
+    "speciality": "Cardiologist",
+    "experience": "MBBS, MD ",
+    "location": "Nagpur",
+    "image": "https://png.pngtree.com/png-clipart/20230918/ourmid/pngtree-photo-men-doctor-physician-chest-smiling-png-image_10132895.png",
+    "phone": "tel:0761267955"
+    
+  },
+  {
+    "name": "Dr.Anushka Sharma",
+    "speciality": "Gynecologist",
+    "experience": "MBBS,MS",
+    "location": "Mumbai",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-22fh2aN9Gv6ILc3N6ZAb6V5GP-rvSpdojw&usqp=CAU"
+    
+  },
+  {
+    "name": "Dr.Pragya",
+    "speciality": "Gynecologist",
+    "experience": "MBBS, MD",
+    "location": "Pune",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqysf9G0X59qUqc5hgQsY7FGdGfoq7CMy1Aw&usqp=CAU",
+    "phone": "tel:3543553228"
+    
+  },
+  {
+    "name": "Dr.Sayali Tarare",
+    "speciality": "Orthopedic",
+    "experience": "MBBS, MS",
+    "location": "Pune",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqysf9G0X59qUqc5hgQsY7FGdGfoq7CMy1Aw&usqp=CAU",
+    "phone": "tel:4572623461"
+    
+  },
+  {
+    "name": "Dr. Kashi",
+    "speciality": "Orthopedic",
+    "experience": "MBBS, MS",
+    "location": " Kothrud, Pune",
+    "image": "img/dr-dp.png"
+  },
+
+  {
+    "name": "Dr. Sanjay",
+    "speciality": "Orthopedic",
+    "experience": " MBBS,MS",
+    "location": "Pimpri, Pune",
+    "image": "img/dr-dp.png"
+   },
+  
+  
+  
+  {
+    "name": "Dr.Vidisha Tarare ",
+    "speciality": "Neurologist",
+    "experience": "MBBS",
+    "location": "Nagpur",
+    "image": "https://www.pngmart.com/files/21/Female-Doctor-PNG-File.png"
+  },
+  
+  {
+    "name": "Dr. Vaidehi Madavi",
+    "speciality": "Neurologist",
+    "experience": "MBBS",
+    "location": "Nashik",
+    "image": "https://img.freepik.com/premium-photo/medical-concept-indian-beautiful-female-doctor-white-coat-with-stethoscope-waist-up-medical-student-woman-hospital-worker-looking-camera-smiling-studio-blue-background_185696-621.jpg"
+  },
+  
+  {
+    "name": "Dr. Sanskarr Gahukar",
+    "speciality": "Dentists",
+    "experience": "BDS",
+    "location": "Noida",
+    "image": "https://www.shutterstock.com/image-photo/doctor-wearing-medical-mask-gloves-260nw-1675175770.jpg"
+  },
+
+  {
+    "name": "Dr. Sunil Shetty",
+    "speciality": "Paediatrician",
+    "experience": " MBBS, MS",
+    "location": "Karve Nagar, Pune",
+    "image": "https://www.shutterstock.com/image-photo/male-doctor-standing-thumbs-sign-260nw-1931639093.jpg"
+    }
+  ,
+  
+  {
+    "name": "Dr. Sumit Jain",
+    "speciality": "Paediatrician",
+    "experience": " MBBS, MS",
+    "location": "Pune, Maharashtra",
+    "image": "https://www.shutterstock.com/image-photo/doctor-wearing-medical-mask-gloves-260nw-1675175770.jpg"
+    }
+  
+ ,
+    {
+    "name": "Dr. Kalyani Patil",
+    "speciality": "General Physician",
+    "experience": "MBBS",
+    "location": "Pimpri, Pune",
+    "image": "https://www.pngmart.com/files/21/Female-Doctor-PNG-File.png"
+  }
+  ,
+  {
+    "name": "Dr. Jinal Laddha",
+    "speciality": "General Physician",
+    "experience": "MBBS",
+    "location": "Kothrud, Pune",
+    "image": "https://www.shutterstock.com/image-photo/medicine-profession-healthcare-concept-happy-260nw-1865637295.jpg"
+     }
+  
+  
+]
